@@ -1,5 +1,6 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
+  <p>测试前端自动化部署工具项目，现在已经更新，提交了代码到github</p>
+  <span>现在在自动化部署项目，点击部署按钮，后看此项目是否更新为上面的文字</span>
   <HelloWorld msg="Welcome to Your Vue.js App"/>
 </template>
 
